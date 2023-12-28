@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [FilamentPHP](https://github.com/filamentphp/filament)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hammadzafar05/details/experience/](https://www.linkedin.com/in/hammadzafar05/details/experience/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/hammadzafar05](https://www.linkedin.com/in/hammadzafar05)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
