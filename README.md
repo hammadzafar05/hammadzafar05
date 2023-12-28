@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hammad Zafar</h1>
-<h3 align="center">With 3 years of experience in the Software industry, I have developed a deep understanding of web development, including 18 months of expertise in Laravel. My technical skills include proficiency in Laravel, REST APIs, PHP, and WordPress.</h3>
+<h3 align="center">With 3 years of experience in the Software industry, I have developed a deep understanding of web development, including 18 months of expertise in Laravel. My technical skills include proficiency in Laravel, Filament, REST APIs, PHP, and WordPress.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadzafar05&label=Profile%20views&color=0e75b6&style=flat" alt="hammadzafar05" /> </p>
 
