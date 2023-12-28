@@ -17,13 +17,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/hammadzafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hammadzafar" height="30" width="40" /></a>
-<a href="https://twitter.com/hammadzafar05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hammadzafar05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hammadzafar05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammadzafar05" height="30" width="40" /></a>
-<a href="https://fb.com/hammadzafar05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hammadzafar05" height="30" width="40" /></a>
-<a href="https://instagram.com/hammadzafar05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammadzafar05" height="30" width="40" /></a>
-<a href="https://medium.com/@hammadzafar05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hammadzafar05" height="30" width="40" /></a>
+  <a href="https://twitter.com/hammadzafar05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hammadzafar05" height="30" width="40" /></a>
+  <a href="https://medium.com/@hammadzafar05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hammadzafar05" height="30" width="40" /></a>
 </p>
+
+<a href="https://dev.to/hammadzafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hammadzafar" height="30" width="40" /></a>
+
+<a href="https://instagram.com/hammadzafar05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammadzafar05" height="30" width="40" /></a>
+<a href="https://fb.com/hammadzafar05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hammadzafar05" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
