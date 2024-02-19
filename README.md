@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hammadzafar05" target="blank"><img src="https://img.shields.io/twitter/follow/hammadzafar05?logo=twitter&style=for-the-badge" alt="hammadzafar05" /></a> </p>
 
-- 🔭 I’m currently working on the **Fee Management System** Of [Aptech Education](https://aptech-education.com.pk/)
+- 🔭 I’m currently working on **[Sonic](https://trax.pk/sonic/)** (An end-to-end Logistics Platform of [Trax Logistics](https://trax.pk)).
 
 - 🌱 I’m currently learning **TALL Stack (Tailwind, Alpine.js, Laravel, Livewire), FilamentPHP, etc**
 
