@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hammad Zafar</h1>
 <h3 align="center">With 3 years of experience in the Software industry, I have developed a deep understanding of web development, including 18 months of expertise in <a href="https://laravel.com/">Laravel</a>. My technical skills include proficiency in Laravel, Filament, REST APIs, PHP, and WordPress.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadzafar05&label=Profile%20views&color=0e75b6&style=flat" alt="hammadzafar05" /> <a href="https://wakatime.com/badge/user/b18a6fc9-b7d1-4222-ae38-cf0bdde067e9/project/00c3dc1f-8999-40cc-97f4-84292b9b50c6"><img src="https://wakatime.com/badge/user/b18a6fc9-b7d1-4222-ae38-cf0bdde067e9/project/00c3dc1f-8999-40cc-97f4-84292b9b50c6.svg" alt="wakatime"></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadzafar05&label=Profile%20views&color=0e75b6&style=flat" alt="hammadzafar05" /> <img src="https://wakatime.com/badge/user/b18a6fc9-b7d1-4222-ae38-cf0bdde067e9/project/00c3dc1f-8999-40cc-97f4-84292b9b50c6.svg" alt="wakatime"> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammadzafar05" alt="hammadzafar05" /></a> </p>
 
