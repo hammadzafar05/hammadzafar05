@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World! 🌍 I'm Hammad Zafar</h1>
-<h3 align="center">Crafting Code with Passion for the Past 3 Years</h3>
+<h3 align="center">Crafting Products with Passion for the Past 3 Years</h3>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=hammadzafar05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
     <a href="https://wakatime.com/@b18a6fc9-b7d1-4222-ae38-cf0bdde067e9"><img src="https://wakatime.com/badge/user/b18a6fc9-b7d1-4222-ae38-cf0bdde067e9.svg" alt="Coding Time" /></a>
