@@ -14,7 +14,7 @@
 </p>
 
 ## 👨‍💻 About Me
-With 4 years of hands-on experience in the software industry, I've honed my skills in web development, specializing in Laravel for the past 18 months. My expertise extends to Filament, REST APIs, PHP, and WordPress, enabling me to build robust, scalable solutions.
+With 4 years of hands-on experience in the software industry, I've honed my skills in web development, specializing in Laravel for the past 3 Years. My expertise extends to Filament, REST APIs, PHP, and WordPress, enabling me to build robust, scalable solutions.
 
 I'm contributing to the Sonic platform—a cutting-edge logistics solution at Trax Logistics.
 
