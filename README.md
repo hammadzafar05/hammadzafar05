@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 With 4 years of hands-on experience in the software industry, I've honed my skills in web development, specializing in Laravel for the past 3 Years. My expertise extends to Filament, REST APIs, PHP, and WordPress, enabling me to build robust, scalable solutions.
 
-I'm contributing to the Sonic platform—a cutting-edge logistics solution at Trax Logistics.
+I'm contributing to the Campfire (Human Resource Management Tool) by [Tribes](https://tribes.tech).
 
 ## 🚀 What I'm Up To
 - 🌱 Learning: The **TALL Stack** (Tailwind, Alpine.js, Laravel, Livewire), and diving deeper into **FilamentPHP**.
