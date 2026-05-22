@@ -21,6 +21,7 @@ Contributing to Campfire, a multi-tenant SaaS platform for talent acquisition, d
 ## 🚀 What I'm Up To
 - 🌱 Currently building: Campfire (multi-tenant SaaS @ Tribes) · Softbooker · open source Filament plugins
 - 💼 Professional Experience: Check out my [LinkedIn](https://linkedin.com/in/hammadzafar05) for a detailed look at my journey.
+- Published plugin in the official Filament plugin marketplace [Mobile Bottom Nav](https://filamentphp.com/plugins/hammadzafar05-mobile-bottom-nav)
 
 ---
 
