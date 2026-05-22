@@ -14,9 +14,9 @@
 </p>
 
 ## 👨‍💻 About Me
-With 4 years of hands-on experience in the software industry, I've honed my skills in web development, specializing in Laravel for the past 3 Years. My expertise extends to Filament, REST APIs, PHP, and WordPress, enabling me to build robust, scalable solutions.
+4+ years building production Laravel applications, from logistics platforms to multi-tenant SaaS.
 
-I'm contributing to the Campfire (Human Resource Management Tool) by [Tribes](https://tribes.tech).
+Contributing to Campfire, a multi-tenant SaaS platform for talent acquisition, developer assessments, and project management (Tribes, UK).
 
 ## 🚀 What I'm Up To
 - 🌱 Currently building: Campfire (multi-tenant SaaS @ Tribes) · Softbooker · open source Filament plugins
@@ -73,4 +73,9 @@ I'm contributing to the Campfire (Human Resource Management Tool) by [Tribes](ht
 </p>
 
 ---
-I’m excited to continue this journey of learning, building, and sharing knowledge with the community. Let's create something amazing together! 🚀
+## Currently open to
+Senior remote roles in Laravel / PHP SaaS engineering.
+Working UK timezone (UTC+5, PKT) — proven async remote experience with Tribes (Manchester, UK).
+
+[LinkedIn](https://www.linkedin.com/in/hammadzafar05) · [Packagist](https://packagist.org/packages/hammadzafar05) · hammadarain05@gmail.com
+
