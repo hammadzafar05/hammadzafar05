@@ -19,8 +19,7 @@ With 4 years of hands-on experience in the software industry, I've honed my skil
 I'm contributing to the Campfire (Human Resource Management Tool) by [Tribes](https://tribes.tech).
 
 ## 🚀 What I'm Up To
-- 🌱 Learning: The **TALL Stack** (Tailwind, Alpine.js, Laravel, Livewire), and diving deeper into **FilamentPHP**.
-- 🤝 Collaborating: I'm looking to contribute to the **FilamentPHP** community.
+- 🌱 Currently building: Campfire (multi-tenant SaaS @ Tribes) · Softbooker · open source Filament plugins
 - 💼 Professional Experience: Check out my [LinkedIn](https://linkedin.com/in/hammadzafar05) for a detailed look at my journey.
 
 ---
